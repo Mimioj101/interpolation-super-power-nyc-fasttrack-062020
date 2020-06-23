@@ -6,4 +6,4 @@ end
 
 rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-diplay_rainbow(rainbow)
+display_rainbow(rainbow)
